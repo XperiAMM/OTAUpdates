@@ -24,9 +24,9 @@ public interface Constants {
 	public static final boolean DEBUG_NOTIFICATIONS 					= false;
 	
 	// Props
-	public static final String OTA_ROMNAME 								= "ro.ota.romname";
-	public static final String OTA_VERSION 								= "ro.ota.version";
-	public static final String OTA_MANIFEST 							= "ro.ota.manifest";
+	public static final String OTA_ROMNAME 								= "maxi.ota.romname";
+	public static final String OTA_VERSION 								= "maxi.ota.version";
+	public static final String OTA_MANIFEST 							= "maxi.ota.manifest";
 	public static final String OTA_DOWNLOAD_LOC							= "ro.ota.download_loc";
 	public static final String OTA_DEFAULT_THEME						= "ro.ota.default_theme";
 	
